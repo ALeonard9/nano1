@@ -52,9 +52,8 @@ breaking_bad = media.TV("Breaking Bad",
 # breaking_bad.show_all()
 
 # EXAMPLE 3 : Creating a movie page
-# movies = [toy_story, avatar, saw, interstellar, v_for_vendetta, three_hundred]
-#
-# fresh_tomatoes.open_movies_page(movies)
+movies = [toy_story, avatar, saw, interstellar, v_for_vendetta, three_hundred]
+fresh_tomatoes.open_movies_page(movies)
 
 # EXMAPLE 4 : Printing valid ratings for a movie. Demonstrates Class constant variables
 # print(avatar.VALID_RATINGS)
